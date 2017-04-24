@@ -1,0 +1,5 @@
+[http]
+    proxy = http://proxypool:9119
+
+[https]
+    proxy = https://proxypool:9119
